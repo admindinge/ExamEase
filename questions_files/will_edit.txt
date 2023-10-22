@@ -1,0 +1,422 @@
+კითხვა: PythonКак вывести только нечетные числа от 1 до 10 в 
+    a) for i in range(1, 11):
+       if i % 2 != 0:
+       print(i)
+    b) for i in range(1, 11):
+       if i % 2 == 0:
+       print(i)
+    c) for i in range(1, 11):
+       if even(i):
+       print(i)
+    d) for i in range(1, 11):
+       if odd(i):
+       print(i)
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли значение переменной пустым списком (list) в 
+    a) is_empty(list)
+    b) list.isEmpty()
+    c) len(list) == 0
+    d) list.is_empty()
+    პასუხი: c
+
+კითხვა: PythonКак создать множество (set) с числами от 1 до 5 в 
+    a) {1, 2, 3, 4, 5}
+    b) [1, 2, 3, 4, 5]
+    c) set(1, 2, 3, 4, 5)
+    d) new set = {1, 2, 3, 4, 5}
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли строка пустой в 
+    a) string.isEmpty()
+    b) len(string) == 0
+    c) string == ""
+    d) isNull(string)
+    პასუხი: b
+
+კითხვა: PythonКак создать пустую строку (string) в 
+    a) ""
+    b) string()
+    c) new string = ""
+    d) empty_string()
+    პასუხი: a
+
+კითხვა: PythonКак создать список (list) с числами от 1 до 10 в 
+    a) list(1, 10)
+    b) [1..10]
+    c) list(range(1, 11))
+    d) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    პასუხი: c
+
+კითხვა: PythonКак определить, является ли значение переменной True в 
+    a) isTrue(value)
+    b) value == True
+    c) value.equals(True)
+    d) value.isTrue()
+    პასუხი: b
+
+კითხვა: PythonКак создать условие, которое выполняется, если переменная a больше переменной b в 
+    a) if a > b:
+    b) if a < b:
+    c) if a = b:
+    d) if a == b:
+    პასუხი: a
+
+კითხვა: PythonКак удалить элемент из множества (set) в 
+    a) set.remove(element)
+    b) set.delete(element)
+    c) set.discard(element)
+    d) del set[element]
+    პასუხი: c
+
+კითხვა: PythonКак определить, является ли число дробным (с плавающей точкой) в 
+    a) number.is_float()
+    b) is_float(number)
+    c) number % 1 != 0
+    d) number.float()
+    პასუხი: c
+
+კითხვა: PythonКак создать список (list) с первыми тремя буквами алфавита в 
+    a) ['a', 'b', 'c']
+    b) list('abc')
+    c) list(range('a', 'c'))
+    d) list.alphabet(3)
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли строка пустой в 
+    a) string.isEmpty()
+    b) len(string) == 0
+    c) string == ""
+    d) isNull(string)
+    პასუხი: b
+
+კითხვა: PythonКак создать множество (set) с буквами "A," "B," "C" в 
+    a) {'A,', 'B,', 'C'}
+    b) {'A', 'B', 'C'}
+    c) set('A,', 'B,', 'C')
+    d) new set = {'A,', 'B,', 'C'}
+    პასუხი: b
+
+კითხვა: PythonКак проверить, содержит ли строка подстроку "python" в 
+    a) "python" in string
+    b) string.contains("python")
+    c) contains("python", string)
+    d) string.hasSubstring("python")
+    პასუხი: a
+
+კითხვა: PythonКак создать словарь (dictionary) с парами ключ-значение в 
+    a) {'key1': 'value1', 'key2': 'value2'}
+    b) [key1, value1, key2, value2]
+    c) dict(key1='value1', key2='value2')
+    d) new dictionary = ('key1', 'value1', 'key2', 'value2')
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли значение строки числом в 
+    a) string.is_number()
+    b) is_number(string)
+    c) string.isdigit()
+    d) is_digit(string)
+    პასუხი: c
+
+კითხვა: PythonКак создать множество (set) с числами от 0 до 10 в 
+    a) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+    b) range(0, 10)
+    c) set(0, 10)
+    d) new set = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли значение переменной пустым кортежем (tuple) в 
+    a) is_empty(tuple)
+    b) tuple.isEmpty()
+    c) len(tuple) == 0
+    d) tuple.is_empty()
+    პასუხი: c
+
+კითხვა: PythonКак создать пустой кортеж (tuple) в 
+    a) ()
+    b) []
+    c) {}
+    d) tuple()
+    პასუხი: a
+
+კითხვა: PythonКак создать строку (string) с символами кавычки и слэша в 
+    a) "\"\\"
+    b) "\\\"\\"
+    c) '"\\'
+    d) '\\"\\'
+    პასუხი: a
+
+კითხვა: PythonКак вывести только нечетные числа от 1 до 10 в 
+    a) for i in range(1, 11):
+       if i % 2 != 0:
+       print(i)
+    b) for i in range(1, 11):
+       if i % 2 == 0:
+       print(i)
+    c) for i in range(1, 11):
+       if even(i):
+       print(i)
+    d) for i in range(1, 11):
+       if odd(i):
+       print(i)
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли значение переменной пустым списком (list) в 
+    a) is_empty(list)
+    b) list.isEmpty()
+    c) len(list) == 0
+    d) list.is_empty()
+    პასუხი: c
+
+კითხვა: PythonКак создать множество (set) с числами от 1 до 5 в 
+    a) {1, 2, 3, 4, 5}
+    b) [1, 2, 3, 4, 5]
+    c) set(1, 2, 3, 4, 5)
+    d) new set = {1, 2, 3, 4, 5}
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли строка пустой в 
+    a) string.isEmpty()
+    b) len(string) == 0
+    c) string == ""
+    d) isNull(string)
+    პასუხი: b
+
+კითხვა: PythonКак создать пустую строку (string) в 
+    a) ""
+    b) string()
+    c) new string = ""
+    d) empty_string()
+    პასუხი: a
+
+კითხვა: PythonКак создать список (list) с числами от 1 до 10 в 
+    a) list(1, 10)
+    b) [1..10]
+    c) list(range(1, 11))
+    d) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    პასუხი: c
+
+კითხვა: PythonКак определить, является ли значение переменной True в 
+    a) isTrue(value)
+    b) value == True
+    c) value.equals(True)
+    d) value.isTrue()
+    პასუხი: b
+
+კითხვა: PythonКак создать условие, которое выполняется, если переменная a больше переменной b в 
+    a) if a > b:
+    b) if a < b:
+    c) if a = b:
+    d) if a == b:
+    პასუხი: a
+
+კითხვა: PythonКак удалить элемент из множества (set) в 
+    a) set.remove(element)
+    b) set.delete(element)
+    c) set.discard(element)
+    d) del set[element]
+    პასუხი: c
+
+კითხვა: PythonКак определить, является ли число дробным (с плавающей точкой) в 
+    a) number.is_float()
+    b) is_float(number)
+    c) number % 1 != 0
+    d) number.float()
+    პასუხი: c
+
+კითხვა: PythonКак создать список (list) с первыми тремя буквами алфавита в 
+    a) ['a', 'b', 'c']
+    b) list('abc')
+    c) list(range('a', 'c'))
+    d) list.alphabet(3)
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли строка пустой в 
+    a) string.isEmpty()
+    b) len(string) == 0
+    c) string == ""
+    d) isNull(string)
+    პასუხი: b
+
+კითხვა: PythonКак создать множество (set) с буквами "A," "B," "C" в 
+    a) {'A,', 'B,', 'C'}
+    b) {'A', 'B', 'C'}
+    c) set('A,', 'B,', 'C')
+    d) new set = {'A,', 'B,', 'C'}
+    პასუხი: b
+
+კითხვა: PythonКак проверить, содержит ли строка подстроку "python" в 
+    a) "python" in string
+    b) string.contains("python")
+    c) contains("python", string)
+    d) string.hasSubstring("python")
+    პასუხი: a
+
+კითხვა: PythonКак создать словарь (dictionary) с парами ключ-значение в 
+    a) {'key1': 'value1', 'key2': 'value2'}
+    b) [key1, value1, key2, value2]
+    c) dict(key1='value1', key2='value2')
+    d) new dictionary = ('key1', 'value1', 'key2', 'value2')
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли значение строки числом в 
+    a) string.is_number()
+    b) is_number(string)
+    c) string.isdigit()
+    d) is_digit(string)
+    პასუხი: c
+
+კითხვა: PythonКак создать множество (set) с числами от 0 до 10 в 
+    a) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+    b) range(0, 10)
+    c) set(0, 10)
+    d) new set = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли значение переменной пустым кортежем (tuple) в 
+    a) is_empty(tuple)
+    b) tuple.isEmpty()
+    c) len(tuple) == 0
+    d) tuple.is_empty()
+    პასუხი: c
+
+კითხვა: PythonКак создать пустой кортеж (tuple) в 
+    a) ()
+    b) []
+    c) {}
+    d) tuple()
+    პასუხი: a
+
+კითხვა: PythonКак создать строку (string) с символами кавычки и слэша в 
+    a) "\"\\"
+    b) "\\\"\\"
+    c) '"\\'
+    d) '\\"\\'
+    პასუხი: a
+
+კითხვა: PythonКак вывести только нечетные числа от 1 до 10 в 
+    a) for i in range(1, 11):
+       if i % 2 != 0:
+       print(i)
+    b) for i in range(1, 11):
+       if i % 2 == 0:
+       print(i)
+    c) for i in range(1, 11):
+       if even(i):
+       print(i)
+    d) for i in range(1, 11):
+       if odd(i):
+       print(i)
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли значение переменной пустым списком (list) в 
+    a) is_empty(list)
+    b) list.isEmpty()
+    c) len(list) == 0
+    d) list.is_empty()
+    პასუხი: c
+
+კითხვა: PythonКак создать множество (set) с числами от 1 до 5 в 
+    a) {1, 2, 3, 4, 5}
+    b) [1, 2, 3, 4, 5]
+    c) set(1, 2, 3, 4, 5)
+    d) new set = {1, 2, 3, 4, 5}
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли строка пустой в 
+    a) string.isEmpty()
+    b) len(string) == 0
+    c) string == ""
+    d) isNull(string)
+    პასუხი: b
+
+კითხვა: PythonКак создать пустую строку (string) в 
+    a) ""
+    b) string()
+    c) new string = ""
+    d) empty_string()
+    პასუხი: a
+
+კითხვა: PythonКак создать список (list) с числами от 1 до 10 в 
+    a) list(1, 10)
+    b) [1..10]
+    c) list(range(1, 11))
+    d) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    პასუხი: c
+
+კითხვა: PythonКак определить, является ли значение переменной True в 
+    a) isTrue(value)
+    b) value == True
+    c) value.equals(True)
+    d) value.isTrue()
+    პასუხი: b
+
+კითხვა: PythonКак создать условие, которое выполняется, если переменная a больше переменной b в 
+    a) if a > b:
+    b) if a < b:
+    c) if a = b:
+    d) if a == b:
+    პასუხი: a
+
+კითხვა: PythonКак удалить элемент из множества (set) в 
+    a) set.remove(element)
+    b) set.delete(element)
+    c) set.discard(element)
+    d) del set[element]
+    პასუხი: c
+
+კითხვა: PythonКак определить, является ли число дробным (с плавающей точкой) в 
+    a) number.is_float()
+    b) is_float(number)
+    c) number % 1 != 0
+    d) number.float()
+    პასუხი: c
+
+კითხვა: PythonКак создать список (list) с первыми тремя буквами алфавита в 
+    a) ['a', 'b', 'c']
+    b) list('abc')
+    c) list(range('a', 'c'))
+    d) list.alphabet(3)
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли строка пустой в 
+    a) string.isEmpty()
+    b) len(string) == 0
+    c) string == ""
+    d) isNull(string)
+    პასუხი: b
+
+კითხვა: PythonКак создать множество (set) с буквами "A," "B," "C" в 
+    a) {'A,', 'B,', 'C'}
+    b) {'A', 'B', 'C'}
+    c) set('A,', 'B,', 'C')
+    d) new set = {'A,', 'B,', 'C'}
+    პასუხი: b
+
+კითხვა: PythonКак проверить, содержит ли строка подстроку "python" в 
+    a) "python" in string
+    b) string.contains("python")
+    c) contains("python", string)
+    d) string.hasSubstring("python")
+    პასუხი: a
+
+კითხვა: PythonКак создать словарь (dictionary) с парами ключ-значение в 
+    a) {'key1': 'value1', 'key2': 'value2'}
+    b) [key1, value1, key2, value2]
+    c) dict(key1='value1', key2='value2')
+    d) new dictionary = ('key1', 'value1', 'key2', 'value2')
+    პასუხი: a
+
+კითხვა: PythonКак определить, является ли значение строки числом в 
+    a) string.is_number()
+    b) is_number(string)
+    c) string.isdigit()
+    d) is_digit(string)
+    პასუხი: c
+
+კითხვა: PythonКак создать множество (set) с числами от 0 до 10 в 
+     a) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+     b) range(0, 10)
+     c) set(0, 10)
+     d) new set = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+     პასუხი: a

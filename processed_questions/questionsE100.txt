@@ -1,0 +1,303 @@
+სირთულე: იოლი
+
+კითხვა: Python-ის რომელი ვერსია ითვლება ამ მომენტისათვის აქტუალურად?
+ a) Python 2
+ b) Python 3
+ c) Python 4
+ d) Python 5
+ პასუხი: b
+
+კითხვა: Python-ში როგორ უნდა გამოვიტანოთ ტექსტი "Hello, World!" ?
+ a) console.log("Hello, World!")
+ b) print("Hello, World!")
+ c) echo("Hello, World!")
+ d) display("Hello, World!")
+ პასუხი: b
+
+კითხვა: Python-ში როგორ უნდა შევუკვეთოთ მომხმარებელს მონაცემის შეყვანა?
+ a) read_input()
+ b) get_input()
+ c) input()
+ d) user_input()
+ პასუხი: c
+
+კითხვა: Pythonშემდეგი მონაცემთა ტიპებიდან Python-ში რომლის დანიშნულებაა მთელი რიცხვების შენახვა?
+ a) integer
+ b) float
+ c) string
+ d) list
+ პასუხი: a
+
+კითხვა: Pythonრა მნიშვნელობას დააბრუნებს გამოსახულება 7 + 3?
+ a) 73
+ b) 10
+ c) "73"
+ d) 4
+ პასუხი: b
+
+კითხვა: Pythonრომელი ოპერაცია გამოიყენება Python-ში ტოლობის შესამოწმებლად?
+ a) ==
+ b) =
+ c) ===
+ d) !=
+ პასუხი: a
+
+კითხვა: რომელი სიმბოლო გამოიყენება Python-ში კომენტარის აღსანიშნავად?
+ a) //
+ b) #
+ c) --
+ d) /* */
+ პასუხი: b
+
+კითხვა: როგორ გავიგოთ Python-ში, არის თუ არა რიცხვი დადებითი?
+ a) number.is_positive()
+ b) number > 0
+ c) is_positive(number)
+ d) number.positive()
+ პასუხი: b
+
+კითხვა: ქვემოთ ჩამოთვლილილებიდან, Python-ში რომლები არიან ლოგიკური ოპერატორები?
+ a) and, or, not
+ b) plus, minus, multiply
+ c) if, else, while
+ d) input, output, print
+ პასუხი: a
+
+კითხვა: Python-ში როგორ გამოვაცხადოთ ცვლადი სახელით "x" და მივანიჭოთ მას მნიშვნელობა 5?
+ a) x = 5
+ b) var x = 5
+ c) let x = 5
+ d) x == 5
+ პასუხი: a
+
+კითხვა: Python-ში როგორ გამოვიყვანოთ 10-ის 3-ზე გაყოფის შედეგი?
+ a) print(10 % 3)
+ b) print(10 / 3)
+ c) print(10 // 3)
+ d) print(10 * 3)
+ პასუხი: b
+
+კითხვა: Python-ში როგორ შევამოწმოთ, რომ ცვლადი x ტოლია 5-ის?
+ a) if x equals 5:
+ b) if x == 5:
+ c) if x = 5:
+ d) if x := 5:
+ პასუხი: b
+
+კითხვა: Python-ში რომელი ოპერატორი გამოიყენება ციკლის შესასრულებლად?
+ a) loop
+ b) for
+ c) foreach
+ d) iterate
+ პასუხი: b
+
+კითხვა: Python-ში რომელი ოპერატორი გამოიყენება ცვლადის მნშვნელობის 1-ით გასაზრდელად?
+ a) ++
+ b) +=
+ c) increment
+ d) x = x + 1
+ პასუხი: b
+
+კითხვა: Python-ში რომელი სიმბოლო გამოიყენება სტრიქონების გასაერთიანებლად?
+ a) &
+ b) +
+ c) .
+ d) #
+ პასუხი: b
+
+კითხვა: Python-ში როგორ შევქმნათ სია (list) ელემენტებით "apple," "banana," "cherry" ?
+ a) ["apple," "banana," "cherry"]
+ b) list("apple," "banana," "cherry")
+ c) list("apple", "banana", "cherry")
+ d) ("apple," "banana," "cherry")
+ პასუხი: a
+
+კითხვა: Python-ში როგორ გამოვაცხადოთ ათწილადი (float) ცვლადი მნიშვნელობით 3.14?
+ a) float x = 3.14
+ b) x = 3.14
+ c) x as Float = 3.14
+ d) x = 3,14
+ პასუხი: b
+
+კითხვა: Python-ში რომელი ოპერატორი გამოიყენება არატოლობის შესამოწმებლად?
+ a) ==
+ b) !=
+ c) ===
+ d) =
+ პასუხი: b
+
+კითხვა: Python-ში როგორ უნდა შევქმნათ ცარიელი სია (list)?
+ a) []
+ b) list()
+ c) new list = []
+ d) empty_list()
+ პასუხი: a
+
+კითხვა: Python-ში რომელი სიმბოლო გამოიყენება ერთ ხაზში კომენტარის შესაქმნელად?
+ a) //
+ b) #
+ c) /*
+ d) --.
+ პასუხი: b
+
+კითხვა: Python-ში როგორ განვსაზღვრავთ ლუწია თუ არა რიცხვი?
+ a) is_even(number)
+ b) number.is_even()
+ c) number % 2 == 0
+ d) number // 2 == 0
+ პასუხი: c
+
+კითხვა: Python-ში როგორ შევქმნათ სიმრავლე (set) ელემენტებით 1, 2, 3?
+ a) {1, 2, 3}
+ b) set(1, 2, 3)
+ c) new set = {1, 2, 3}
+ d) set = [1, 2, 3]
+ პასუხი: a
+
+კითხვა: Python-ში როგორ გამოვაცხადოთ ფუნქცია სახელით "my_function"?
+ a) function my_function:
+ b) def my_function:
+ c) def my_function():
+ d) function my_function()
+ პასუხი: c
+
+კითხვა: Python-ში როგორ შევქმნათ პირობა, რომელიც შესრულდება როცა ცვლადი a მეტია b-ზე?
+ a) if a > b:
+ b) if a < b:
+ c) if a = b:
+ d) if a == b:
+ პასუხი: a
+
+კითხვა: Python-ში როგორ წავშალოთ ელემენტი სიმრავლიდან (set)?
+ a) set.remove(element)
+ b) set.delete(element)
+ c) set.discard(element)
+ d) del set[element]
+ პასუხი: c
+
+კითხვა: Python-ში რომელი ფუნქცი გამოიყენება რიცხვის აბსოლუტური მნიშვნელობის გასაგებად?
+ a) absolute()
+ b) abs()
+ c) math.abs()
+ d) number.abs()
+ პასუხი: b
+
+კითხვა: Python-ში როგორ გამოვაცხადოთ სარიელი სტრიქონი (string)?
+ a) ""
+ b) string()
+ c) new string = ""
+ d) empty_string()
+ პასუხი: a
+
+კითხვა: Python-ში როგორ შევქმნათ სია (list) რიცხვებით 1-დან 10-მდე?
+ a) list(1, 10)
+ b) [1..10]
+ c) list(range(1, 11))
+ d) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+ პასუხი: c
+
+კითხვა: როგორ განვსაზღროთ Python-ში არის თუ არა ცვლადი True?
+ a) isTrue(value)
+ b) value == True
+ c) value.equals(True)
+ d) value.isTrue()
+ პასუხი: b
+
+კითხვა: როგორ გამოვიტანოთ Python-ში სიის (list) ბოლო ელემენტი?
+ a) list[-1]
+ b) list.last()
+ c) list.getLast()
+ d) list[len(list) - 1]
+ პასუხი: a
+
+კითხვა: Python-ში როგორ შევქმნათ სიმრავლე (set) ელემენტებით "red," "green," "blue"?
+ a) {"red," "green," "blue"}
+ b) {"red", "green", "blue"}
+ c) set("red," "green," "blue")
+ d) new set = {"red," "green," "blue"}
+ პასუხი: b
+
+კითხვა: Python-ში როგორ შევამოწმოთ, რომ სტრიქონი მთავდება ".txt-ზე" 
+ a) string.endWith(".txt")
+ b) string.endswith(".txt")
+ c) endswith(string, ".txt")
+ d) ".txt".end(string)
+ პასუხი: b
+
+კითხვა: Python-ში როგორ განვსაზღვროთ, რომ რიცხვი არის ათწილადი. ( ) 
+ a) number.is_float()
+ b) is_float(number)
+ c) number % 1 != 0
+ d) number.float()
+ პასუხი: c
+
+კითხვა: Python-ში როგორ შევშევქმნათ (list) ალაფავიტის პირეველი სამი სიმბოლოთი. 
+ a) ['a', 'b', 'c']
+ b) list('abc')
+ c) list(range('a', 'c'))
+ d) list.alphabet(3)
+ პასუხი: a
+
+კითხვა: Python-ში როგორ გავნვსაზღვროთ, რომ სტრიქონი არის ცარიელი 
+ a) string.isEmpty()
+ b) len(string) == 0
+ c) string == ""
+ d) isNull(string)
+ პასუხი: b
+
+კითხვა: Python-ში როგორ შევქმნათ სიმრავლე (set) ასოებით "A," "B," "C" 
+ a) {'A,', 'B,', 'C'}
+ b) {'A', 'B', 'C'}
+ c) set('A,', 'B,', 'C')
+ d) new set = {'A,', 'B,', 'C'}
+ პასუხი: b
+
+კითხვა: Python-ში როგორ შევამოწმოთ რომ სტრიქონი შეიცავს ქვესტრიქონ "python"-ს 
+ a) "python" in string
+ b) string.contains("python")
+ c) contains("python", string)
+ d) string.hasSubstring("python")
+ პასუხი: a
+
+კითხვა: Python-ში როგორ შევქმნათ ლექსიკონი (dictionary) წყვილებით გასაღები-მნიშვნელობა - 
+ a) {'key1': 'value1', 'key2': 'value2'}
+ b) [key1, value1, key2, value2]
+ c) dict(key1='value1', key2='value2')
+ d) new dictionary = ('key1', 'value1', 'key2', 'value2')
+ პასუხი: a
+
+კითხვა: Python-ში როგორ განვსაზღვროთ, არის თუ არა სტრიქონის მნიშვნელობა რიცხვი? , 
+ a) string.is_number()
+ b) is_number(string)
+ c) string.isdigit()
+ d) is_digit(string)
+ პასუხი: c
+
+კითხვა: Python-ში როგორ შევქმნათ სიმრავლე (set) 0-დან 10-მდე? 
+ a) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+ b) range(0, 10)
+ c) set(0, 10)
+ d) new set = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+ პასუხი: a
+
+კითხვა: Python როგორ გავიგოთ, არის თუ არა ცვლადი ცარიელი კორტეჟი (tuple)? 
+ a) is_empty(tuple)
+ b) tuple.isEmpty()
+ c) len(tuple) == 0
+ d) tuple.is_empty()
+ პასუხი: c
+
+კითხვა: Python-ში როგორ შევქმნათ ცარიელი კორტეჟი (tuple)? 
+ a) ()
+ b) []
+ c) {}
+ d) tuple()
+ პასუხი: a
+
+კითხვა: Python-ში როგორ შევქმნათ სტრიქონი (string) სიმბოლოებით ბრჭყალები და დახრილი ხაზი? 
+ a) "\"\\"
+ b) "\\\"\\"
+ c) '"\\'
+ d) '\\"\\'
+ პასუხი: a
+
